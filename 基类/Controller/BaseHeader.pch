@@ -1,0 +1,20 @@
+//
+//  BaseHeader.pch
+//  TimeMovie
+//
+//  Created by mac on 15/8/21.
+//  Copyright (c) 2015年 mac. All rights reserved.
+//
+
+#ifndef TimeMovie_BaseHeader_pch
+#define TimeMovie_BaseHeader_pch
+
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width
+#define kScreenHeight [UIScreen mainScreen].bounds.size.height
+
+
+#import "UIViewExt.h"
+#import "UIImageView+WebCache.h"
+
+
+#endif
